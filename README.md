@@ -1,9 +1,5 @@
-<h1 align=center>Hi , I'm Ankush Kanojiya</h1>
-
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
-
-<!-- Banner / Header -->
  <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello+Universe%2C+This+is+Who+I+Am;Java+Backend+Developer;System+Design+Enthusiast;Problem+Solver+%7C+Builder+%7C+Creator" alt="Typing SVG" />
 </p>
@@ -67,7 +63,10 @@ A full-stack system with secure authentication, UPI intent payments, admin verif
   <img src="https://github-readme-stats.vercel.app/api?username=Ankushkanojiya&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkanojiya&layout=compact&theme=tokyonight" height="165" />
 </p>
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ankushkanojiya&theme=tokyonight" height="165" />
+</p>
+
 
 
 ## 🌐 **Connect With Me**
